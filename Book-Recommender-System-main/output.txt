@@ -1,0 +1,182 @@
+Welcome to the CS131B Book Recommender. Type the word in the
+left column to do the action on the right.
+recommend : recommend books for a particular user
+averages  : output the average ratings of all books in the system
+quit      : exit the program
+
+next task? recommend
+
+user? Ben
+The Bourne Series  5.0
+The Lord of the Rings  5.0
+Holes  5.0
+The Lion the Witch and the Wardrobe  5.0
+Ender's Game  5.0
+The Hobbit  5.0
+My Sister's Keeper  5.0
+Sabriel  5.0
+Harry Potter Series  5.0
+The Hitchhiker's Guide To The Galaxy  4.33
+To Kill a Mockingbird  4.33
+The Princess Bride  4.0
+Watership Down  4.0
+The Golden Compass  3.67
+The Da Vinci Code  3.67
+The War Of The Worlds  3.67
+Hatchet  3.0
+Shattered  3.0
+Flowers For Algernon  3.0
+Inkheart  3.0
+Eragon  2.33
+The Chrysalids  2.0
+The Great Gatsby  1.67
+Lord of the Flies  1.67
+Bleach (graphic novel)  1.0
+Speak  1.0
+Life of Pi  1.0
+The Sisterhood of the Travelling Pants  1.0
+Dinotopia: A Land Apart from Time  0
+I Know Why the Caged Bird Sings  0
+Neuromancer  0
+Practical Magic  0
+Owl in Love  0
+The Shadow Club  0
+Thirteen Reasons Why  0
+The Hunt for Red October  0
+Shonen Jump Series  0
+The Hunger Games  0
+Ranger's Apprentice Series  0
+Nineteen Eighty-Four (1984)  0
+The Summer Tree  0
+The Joy Luck Club  0
+Maus: A Survivor's Tale  0
+Kiss the Dust  0
+Far North  0
+Dealing with Dragons  0
+A Great and Terrible Beauty  0
+Naruto  0.0
+The Five People You Meet in Heaven  0
+Foundation Series  0
+The Princess Diaries  -1.0
+Twilight Series  -1.67
+Bone Series  -3.0
+Brave New World  -3.0
+
+
+next task? recommend
+
+user? aalison
+Sabriel  4.0
+The Bourne Series  3.86
+The Hitchhiker's Guide To The Galaxy  3.83
+Ender's Game  3.81
+My Sister's Keeper  3.8
+Harry Potter Series  3.61
+Hatchet  3.58
+Holes  3.57
+The Princess Bride  3.5
+The Lion the Witch and the Wardrobe  3.24
+The Lord of the Rings  3.04
+The Hunt for Red October  3.0
+Shonen Jump Series  3.0
+The Summer Tree  3.0
+Maus: A Survivor's Tale  3.0
+The Hobbit  2.85
+The War Of The Worlds  2.83
+Nineteen Eighty-Four (1984)  2.83
+Inkheart  2.77
+The Golden Compass  2.76
+Eragon  2.72
+Flowers For Algernon  2.62
+Dealing with Dragons  2.6
+Foundation Series  2.57
+The Joy Luck Club  2.56
+The Hunger Games  2.5
+A Great and Terrible Beauty  2.5
+Neuromancer  2.38
+Bleach (graphic novel)  2.33
+Shattered  2.33
+The Da Vinci Code  2.25
+Bone Series  2.06
+Brave New World  1.88
+The Five People You Meet in Heaven  1.83
+To Kill a Mockingbird  1.77
+Watership Down  1.7
+The Great Gatsby  1.58
+The Chrysalids  1.56
+Naruto  1.52
+Ranger's Apprentice Series  1.4
+Lord of the Flies  1.36
+Owl in Love  1.0
+Speak  1.0
+Kiss the Dust  1.0
+Far North  1.0
+The Princess Diaries  0.9
+Dinotopia: A Land Apart from Time  0.5
+Twilight Series  0.47
+The Sisterhood of the Travelling Pants  0.43
+Practical Magic  0.33
+Life of Pi  0.22
+The Shadow Club  0.0
+I Know Why the Caged Bird Sings  -0.33
+Thirteen Reasons Why  -0.33
+
+
+next task? averages
+Sabriel  4.0
+The Bourne Series  3.86
+The Hitchhiker's Guide To The Galaxy  3.83
+Ender's Game  3.81
+My Sister's Keeper  3.8
+Harry Potter Series  3.61
+Hatchet  3.58
+Holes  3.57
+The Princess Bride  3.5
+The Lion the Witch and the Wardrobe  3.24
+The Lord of the Rings  3.04
+The Hunt for Red October  3.0
+Shonen Jump Series  3.0
+The Summer Tree  3.0
+Maus: A Survivor's Tale  3.0
+The Hobbit  2.85
+The War Of The Worlds  2.83
+Nineteen Eighty-Four (1984)  2.83
+Inkheart  2.77
+The Golden Compass  2.76
+Eragon  2.72
+Flowers For Algernon  2.62
+Dealing with Dragons  2.6
+Foundation Series  2.57
+The Joy Luck Club  2.56
+The Hunger Games  2.5
+A Great and Terrible Beauty  2.5
+Neuromancer  2.38
+Bleach (graphic novel)  2.33
+Shattered  2.33
+The Da Vinci Code  2.25
+Bone Series  2.06
+Brave New World  1.88
+The Five People You Meet in Heaven  1.83
+To Kill a Mockingbird  1.77
+Watership Down  1.7
+The Great Gatsby  1.58
+The Chrysalids  1.56
+Naruto  1.52
+Ranger's Apprentice Series  1.4
+Lord of the Flies  1.36
+Owl in Love  1.0
+Speak  1.0
+Kiss the Dust  1.0
+Far North  1.0
+The Princess Diaries  0.9
+Dinotopia: A Land Apart from Time  0.5
+Twilight Series  0.47
+The Sisterhood of the Travelling Pants  0.43
+Practical Magic  0.33
+Life of Pi  0.22
+The Shadow Club  0.0
+I Know Why the Caged Bird Sings  -0.33
+Thirteen Reasons Why  -0.33
+
+
+next task? quit
